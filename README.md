@@ -11,9 +11,17 @@ Este projeto utiliza o dataset público da Olist (extraído do Kaggle) para real
   - Matplotlib
   - Seaborn
 - **Jupyter Notebook**: Ambiente para desenvolvimento e execução das análises.
-- **Power BI (em andamento)**: Criação de dashboard interativo.
+- **Power BI**: Criação de dashboard interativo usando:
+    - DAX
+    - Power Query
 - **GitHub**: Repositório para armazenar e compartilhar o projeto.
 
+  
+---
+- Confira a Dashbord feita no Power BI clicando no link:
+- [Dashbord Olist](https://app.powerbi.com/viewr=eyJrIjoiMDhhOTFlODktZTcyOC00Y2M5LWJlZDYtODMyYmRjMGE5OWVmIiwidCI6IjFlZTEwZjk4LWRiMDUtNGE4OS1hNzAzLTM4NDIyNDBmZGQ2MiJ9&pageName=0e4b1536851bb0d7ca6a)
+- Confira a analíse feita com Python clicando no link:
+- [Relatório com Python](https://github.com/victorsabino36/analise_ecommerce/blob/main/Analise_Olist.ipynb)
 ---
 
 ## **Sobre o Dataset**
@@ -41,3 +49,4 @@ Este projeto utiliza o dataset público da Olist (extraído do Kaggle) para real
 - **Duração média da entrega por avaliação**:
   - Score 5: 10 dias.
   - Score 1: 19 dias.
+    
