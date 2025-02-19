@@ -19,7 +19,7 @@ Este projeto utiliza o dataset público da Olist (extraído do Kaggle) para real
   
 ---
 - Confira a Dashbord feita no Power BI clicando no link:
-- [Dashbord Olist](https://app.powerbi.com/view?r=eyJrIjoiMDhhOTFlODktZTcyOC00Y2M5LWJlZDYtODMyYmRjMGE5OWVmIiwidCI6IjFlZTEwZjk4LWRiMDUtNGE4OS1hNzAzLTM4NDIyNDBmZGQ2MiJ9&pageName=0e4b1536851bb0d7ca6a)
+- [Dashbord Olist](https://app.powerbi.com/view?r=eyJrIjoiMDhhOTFlODktZTcyOC00Y2M5LWJlZDYtODMyYmRjMGE5OWVmIiwidCI6IjFlZTEwZjk4LWRiMDUtNGE4OS1hNzAzLTM4NDIyNDBmZGQ2MiJ9)
 - Confira a analíse feita com Python clicando no link:
 - [Relatório com Python](https://github.com/victorsabino36/analise_ecommerce/blob/main/Analise_Olist.ipynb)
 ---
